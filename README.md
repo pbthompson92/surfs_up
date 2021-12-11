@@ -22,4 +22,4 @@ Overall, there is only a small fluctuation in weather trends between June and De
 
 ![Temp Frequency](https://user-images.githubusercontent.com/91712554/145689944-c4d07825-ed3b-4b5c-9546-cb172eab67aa.png)
 
-Queries associated with these visuals can be found in the 
+Queries associated with these visuals can be found [Additional Queries File](https://github.com/pbthompson92/surfs_up/blob/main/Additional_Queries.ipynb)
